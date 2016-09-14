@@ -5,9 +5,4 @@
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties/>
   </persistence-unit>
-  <persistence-unit name="lab02fsi2016PU2" transaction-type="JTA">
-    <jta-data-source>java:app/jdbc/datasourceLab02FSI</jta-data-source>
-    <exclude-unlisted-classes>false</exclude-unlisted-classes>
-    <properties/>
-  </persistence-unit>
 </persistence>
